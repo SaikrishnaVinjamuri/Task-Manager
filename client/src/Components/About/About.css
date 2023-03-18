@@ -1,0 +1,10 @@
+.link {
+    color: #3FC1C9 !important;
+}
+/* .black{
+    background-color: black;
+} */
+.bg{
+    background-color: rgba(255,255,255,0.8);
+    padding:40px;
+}
